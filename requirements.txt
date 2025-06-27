@@ -1,0 +1,1 @@
+pip install pyTelegramBotAPI python-dateutil requests
