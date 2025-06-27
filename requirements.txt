@@ -1,1 +1,4 @@
-pip install pyTelegramBotAPI python-dateutil requests
+telebot==0.0.5
+pyTelegramBotAPI==4.27.0
+docutils==0.21.2
+requests==2.32.4
